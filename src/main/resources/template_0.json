@@ -1,0 +1,127 @@
+{
+  "id": "0",
+  "size": {
+    "height": 1118,
+    "width": 640
+  },
+  "elements": [
+    {
+      "order": -1,
+      "type": "fillRectangle",
+      "color": "#ffffff",
+      "size": {
+        "height": 1118,
+        "width": 640
+      },
+      "position": {
+        "left": 0,
+        "top": 0
+      },
+      "show": true
+    },
+    {
+      "order": 0,
+      "type": "image",
+      "content": "ref://productImage",
+      "size": {
+        "height": 640,
+        "width": 640
+      },
+      "position": {
+        "left": 0,
+        "top": 0
+      },
+      "show": true
+    },
+    {
+      "order": 1,
+      "type": "text",
+      "content": "ref://productName",
+      "color": "#262626",
+      "size": {
+        "width": 560
+      },
+      "position": {
+        "left": 40,
+        "top": 679
+      },
+      "textOptions": {
+        "fontSize": 28,
+        "lineHeight": 40,
+        "maxLines": 2
+      },
+      "show": true
+    },
+    {
+      "order": 2,
+      "type": "text",
+      "content": "ref://productPrice",
+      "color": "#FE4133",
+      "size": {
+        "width": 560
+      },
+      "position": {
+        "left": 40,
+        "top": 769
+      },
+      "textOptions": {
+        "fontSize": 32,
+        "lineHeight": 40,
+        "maxLines": 1
+      },
+      "show": true
+    },
+    {
+      "order": 3,
+      "type": "image",
+      "content": "https://fastdfs.shuangkuai.co/group1/M00/00/3C/rB4AT10v226APypoAAD6XXx6ylg393.png",
+      "size": {
+        "height": 260,
+        "width": 260
+      },
+      "position": {
+        "left": 340,
+        "top": 818
+      },
+      "show": true
+    },
+    {
+      "order": 4,
+      "type": "text",
+      "content": "微信长按或扫码",
+      "color": "#999999",
+      "size": {
+        "width": 560
+      },
+      "position": {
+        "left": 43,
+        "top": 1006
+      },
+      "textOptions": {
+        "fontSize": 22,
+        "lineHeight": 30,
+        "maxLines": 1
+      },
+      "show": true
+    },
+    {
+      "order": 5,
+      "type": "text",
+      "content": "查看详情",
+      "color": "#999999",
+      "size": {
+        "width": 560
+      },
+      "position": {
+        "left": 43,
+        "top": 1032
+      },
+      "textOptions": {
+        "fontSize": 22,
+        "lineHeight": 30,
+        "maxLines": 1
+      },
+      "show": true
+    }
+  ]
+}
